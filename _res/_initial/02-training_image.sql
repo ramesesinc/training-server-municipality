@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 5.5.59, for Win64 (AMD64)
 --
--- Host: localhost    Database: etracs_image
+-- Host: localhost    Database: training_image
 -- ------------------------------------------------------
 -- Server version	5.5.59
 
@@ -16,12 +16,12 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 --
--- Current Database: `etracs_image`
+-- Current Database: `training_image`
 --
 
-CREATE DATABASE /*!32312 IF NOT EXISTS*/ `etracs_image` /*!40100 DEFAULT CHARACTER SET utf8 */;
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `training_image` /*!40100 DEFAULT CHARACTER SET utf8 */;
 
-USE `etracs_image`;
+USE `training_image`;
 
 --
 -- Table structure for table `image_chunk`

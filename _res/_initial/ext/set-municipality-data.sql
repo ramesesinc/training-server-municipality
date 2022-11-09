@@ -10,6 +10,8 @@ set @_municipal_name = 'DALAGUETE';
 -- 
 -- BEGIN PROCESS
 -- 
+use training_etracs;
+
 set @_province_id   = replace(@_province_pin,'-','');
 set @_municipal_id  = replace(@_municipal_pin,'-','');
 set @_municipal_idx = substring(@_municipal_id, 4, 2);

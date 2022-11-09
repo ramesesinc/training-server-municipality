@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 5.5.59, for Win64 (AMD64)
 --
--- Host: localhost    Database: etracs_notification
+-- Host: localhost    Database: training_notification
 -- ------------------------------------------------------
 -- Server version	5.5.59
 
@@ -16,12 +16,12 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 --
--- Current Database: `etracs_notification`
+-- Current Database: `training_notification`
 --
 
-CREATE DATABASE /*!32312 IF NOT EXISTS*/ `etracs_notification` /*!40100 DEFAULT CHARACTER SET utf8 */;
+CREATE DATABASE /*!32312 IF NOT EXISTS*/ `training_notification` /*!40100 DEFAULT CHARACTER SET utf8 */;
 
-USE `etracs_notification`;
+USE `training_notification`;
 
 --
 -- Table structure for table `async_notification`
